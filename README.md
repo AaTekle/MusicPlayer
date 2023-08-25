@@ -12,7 +12,7 @@ This project is a basic music player using HTML, CSS, and JavaScript. The music 
 
 ## Demo
 
-You can see a live demo of the music player here: [Simple Music Player Demo](https://your-demo-link.com)
+You can see a live demo of the music player here: [Simple Music Player Demo](https://aaronsmusic.vercel.app/)
 
 ## Features
 
