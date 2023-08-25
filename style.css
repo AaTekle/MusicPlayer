@@ -140,3 +140,35 @@ h1 {
   width: 0%;
   transition: width 0.1s linear;
 }
+
+.github{
+  color: #000000;
+  transition: 0.5s;
+}
+
+.github:hover{
+  color: white;
+}
+
+.linkedin{
+  color: white;
+  transition: 0.5s;
+}
+
+.linkedin:hover{
+  color: #0e76a8;
+}
+
+.email{
+  color: #000000;
+  transition: 0.5s;
+}
+
+.email:hover{
+  color: white;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+}
