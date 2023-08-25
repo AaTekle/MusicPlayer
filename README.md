@@ -31,6 +31,6 @@ Contributions are welcome! If you'd like to improve the project or add new featu
 This project is licensed under the [MIT License](LICENSE).
 
 
-Feel free to customize, enhance, and use this project as a starting point for your own music player application. If you have any questions or suggestions, please feel free to reach out.
+## Feel free to customize, enhance, and use this project as a starting point for your own music player application. If you have any questions or suggestions, please feel free to reach out.
 
 Enjoy coding and listening to your favorite tunes! 🎵🎶
