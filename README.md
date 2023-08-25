@@ -2,14 +2,6 @@
 
 This project is a basic music player using HTML, CSS, and JavaScript. The music player allows users to play and control audio tracks through a user-friendly interface.
 
-## Table of Contents
-
-- [Demo](#demo)
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Demo
 
 You can see a live demo of the music player here: [Simple Music Player Demo](https://aaronsmusic.vercel.app/)
