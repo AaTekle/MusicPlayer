@@ -28,8 +28,6 @@ To run this project, you need a modern web browser that supports HTML5, CSS3, an
 
 Contributions are welcome! If you'd like to improve the project or add new features, feel free to fork this repository and create a pull request with your changes.
 
-## License
-
 This project is licensed under the [MIT License](LICENSE).
 
 
